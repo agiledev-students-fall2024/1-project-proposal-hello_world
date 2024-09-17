@@ -1,4 +1,7 @@
-# Project Proposal: NYC Sports Venues App 
+# Project Proposal: SpotSport NYC
+
+## Project title: SpotSport NYC
+
 
 ## What and Why?
 
