@@ -1,6 +1,7 @@
 # Project Proposal: SpotSport NYC
 
-## Project title: SpotSport NYC
+## Project title 
+- SpotSport NYC
 
 
 ## What and Why?
